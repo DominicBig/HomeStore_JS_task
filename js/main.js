@@ -249,7 +249,7 @@ getGoods().then(function(data){
 	});
 	
 
-	showClothing.forEach(item =>{
+	showClothing.forEach(item => {
 		item.addEventListener('click',e =>{
 		e.preventDefault();
 		filterCards('category','Clothing');
