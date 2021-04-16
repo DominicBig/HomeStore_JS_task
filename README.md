@@ -1,4 +1,4 @@
-# HomeStore_JS_task
+HomeStore_JS_task
 JS workshop e-shop project. designed from figma template
 №Добавлены:
 -рабочая корзина
@@ -6,12 +6,12 @@ JS workshop e-shop project. designed from figma template
 -сортировка товаров по категориям
 
 
-#В проекте использовались :
+В проекте использовались :
 -HTML
 -CSS
 -JavaScript
 
-#Библиотеки:
+Библиотеки:
 -Bootstrap v5
 -Swiper Slider JS
 
